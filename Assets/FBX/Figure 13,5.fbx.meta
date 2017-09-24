@@ -1,0 +1,1186 @@
+fileFormatVersion: 2
+guid: 44fcef2abf98f714da2b38cde323d44e
+timeCreated: 1462792150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arrow1
+    100002: arrow2
+    100004: arrow3
+    100006: button:arrow
+    100008: button:arrow1
+    100010: button:arrow2
+    100012: button:arrow3
+    100014: button:magnet_u_shape:button
+    100016: button:pCube1
+    100018: button:pCube2
+    100020: button:pCube3
+    100022: button:pCube4
+    100024: button:polySurface1
+    100026: compass1:pCylinder2
+    100028: //RootNode
+    100030: group26
+    100032: group27
+    100034: group28
+    100036: group29
+    100038: group31
+    100040: group32
+    100042: group8
+    100044: pasted__pasted__pasted__pasted__pCylinder3
+    100046: pasted__pasted__pasted__pasted__pCylinder4
+    100048: pasted__pasted__pasted__pasted__pCylinder5
+    100050: pasted__pasted__pasted__pasted__polySurface35
+    100052: pasted__pasted__pasted__pasted__polySurface36
+    100054: pasted__pasted__polySurface7
+    100056: pCube3
+    100058: pCylinder6
+    100060: pCylinder7
+    100062: polySurface59
+    100064: polySurface60
+    100066: pTorus1
+    400000: arrow1
+    400002: arrow2
+    400004: arrow3
+    400006: button:arrow
+    400008: button:arrow1
+    400010: button:arrow2
+    400012: button:arrow3
+    400014: button:magnet_u_shape:button
+    400016: button:pCube1
+    400018: button:pCube2
+    400020: button:pCube3
+    400022: button:pCube4
+    400024: button:polySurface1
+    400026: compass1:pCylinder2
+    400028: //RootNode
+    400030: group26
+    400032: group27
+    400034: group28
+    400036: group29
+    400038: group31
+    400040: group32
+    400042: group8
+    400044: pasted__pasted__pasted__pasted__pCylinder3
+    400046: pasted__pasted__pasted__pasted__pCylinder4
+    400048: pasted__pasted__pasted__pasted__pCylinder5
+    400050: pasted__pasted__pasted__pasted__polySurface35
+    400052: pasted__pasted__pasted__pasted__polySurface36
+    400054: pasted__pasted__polySurface7
+    400056: pCube3
+    400058: pCylinder6
+    400060: pCylinder7
+    400062: polySurface59
+    400064: polySurface60
+    400066: pTorus1
+    2300000: arrow1
+    2300002: arrow2
+    2300004: arrow3
+    2300006: button:arrow
+    2300008: button:arrow1
+    2300010: button:arrow2
+    2300012: button:arrow3
+    2300014: button:pCube1
+    2300016: button:pCube2
+    2300018: button:pCube3
+    2300020: button:pCube4
+    2300022: button:polySurface1
+    2300024: compass1:pCylinder2
+    2300026: pasted__pasted__pasted__pasted__pCylinder3
+    2300028: pasted__pasted__pasted__pasted__pCylinder4
+    2300030: pasted__pasted__pasted__pasted__pCylinder5
+    2300032: pasted__pasted__pasted__pasted__polySurface35
+    2300034: pasted__pasted__pasted__pasted__polySurface36
+    2300036: pasted__pasted__polySurface7
+    2300038: pCube3
+    2300040: pCylinder6
+    2300042: pCylinder7
+    2300044: polySurface59
+    2300046: polySurface60
+    2300048: pTorus1
+    3300000: arrow1
+    3300002: arrow2
+    3300004: arrow3
+    3300006: button:arrow
+    3300008: button:arrow1
+    3300010: button:arrow2
+    3300012: button:arrow3
+    3300014: button:pCube1
+    3300016: button:pCube2
+    3300018: button:pCube3
+    3300020: button:pCube4
+    3300022: button:polySurface1
+    3300024: compass1:pCylinder2
+    3300026: pasted__pasted__pasted__pasted__pCylinder3
+    3300028: pasted__pasted__pasted__pasted__pCylinder4
+    3300030: pasted__pasted__pasted__pasted__pCylinder5
+    3300032: pasted__pasted__pasted__pasted__polySurface35
+    3300034: pasted__pasted__pasted__pasted__polySurface36
+    3300036: pasted__pasted__polySurface7
+    3300038: pCube3
+    3300040: pCylinder6
+    3300042: pCylinder7
+    3300044: polySurface59
+    3300046: polySurface60
+    3300048: pTorus1
+    4300000: button:arrow
+    4300002: button:arrow1
+    4300004: button:arrow2
+    4300006: button:arrow3
+    4300008: button:pCube2
+    4300010: button:pCube3
+    4300012: button:pCube4
+    4300014: pCube3
+    4300016: arrow2
+    4300018: arrow1
+    4300020: arrow3
+    4300022: pCylinder6
+    4300024: pTorus1
+    4300026: pCylinder7
+    4300028: button:pCube1
+    4300030: button:polySurface1
+    4300032: pasted__pasted__pasted__pasted__polySurface35
+    4300034: pasted__pasted__pasted__pasted__polySurface36
+    4300036: polySurface59
+    4300038: pasted__pasted__pasted__pasted__pCylinder3
+    4300040: pasted__pasted__pasted__pasted__pCylinder4
+    4300042: pasted__pasted__pasted__pasted__pCylinder5
+    4300044: pasted__pasted__polySurface7
+    4300046: polySurface60
+    4300048: compass1:pCylinder2
+    7400000: switch_on
+    7400002: current_show
+    7400004: loop_1
+    7400006: battery_flip
+    7400008: current_show2
+    7400010: loop_2
+    7400012: battery_flip2
+    7400014: switch_off
+    7400016: switch_off2
+    7400018: switch_on2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: switch_on
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: current_show
+      takeName: Take 001
+      firstFrame: 14
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: loop_1
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 67
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: battery_flip
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: current_show2
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: loop_2
+      takeName: Take 001
+      firstFrame: 106
+      lastFrame: 144
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: battery_flip2
+      takeName: Take 001
+      firstFrame: 147
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: switch_off
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 181
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: switch_off2
+      takeName: Take 001
+      firstFrame: 184
+      lastFrame: 198
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: switch_on2
+      takeName: Take 001
+      firstFrame: 199
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group29
+        weight: 1
+      - path: group29/group28
+        weight: 1
+      - path: group29/group28/group26
+        weight: 1
+      - path: group29/group28/group26/group8
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder6
+        weight: 1
+      - path: group29/group28/group26/group8/pCylinder7
+        weight: 1
+      - path: group29/group28/group26/group8/pTorus1
+        weight: 1
+      - path: group29/group28/group27
+        weight: 1
+      - path: group29/group28/group27/arrow1
+        weight: 1
+      - path: group29/group28/group27/arrow2
+        weight: 1
+      - path: group29/group28/group27/arrow3
+        weight: 1
+      - path: group29/group28/group27/button:arrow
+        weight: 1
+      - path: group29/group28/group27/button:arrow1
+        weight: 1
+      - path: group29/group28/group27/button:arrow2
+        weight: 1
+      - path: group29/group28/group27/button:arrow3
+        weight: 1
+      - path: group29/group28/group27/button:pCube2
+        weight: 1
+      - path: group29/group28/group27/button:pCube3
+        weight: 1
+      - path: group29/group28/group27/button:pCube4
+        weight: 1
+      - path: group29/group28/group27/pCube3
+        weight: 1
+      - path: group29/group28/group31
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:pCube1
+        weight: 1
+      - path: group29/group28/group31/button:magnet_u_shape:button/button:polySurface1
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/compass1:pCylinder2
+        weight: 1
+      - path: group32/polySurface60
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder3
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder4
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__pCylinder5
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface35
+        weight: 1
+      - path: pasted__pasted__pasted__pasted__polySurface36
+        weight: 1
+      - path: pasted__pasted__polySurface7
+        weight: 1
+      - path: polySurface59
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

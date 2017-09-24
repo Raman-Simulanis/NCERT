@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 2b58acd25c7b8e34380b2b0be2726404
+timeCreated: 1460353385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: pasted__compass1
+    100006: pasted__pCube1
+    100008: pasted__pCube1 1
+    100010: polySurface1
+    100012: polySurface11
+    100014: polySurface13
+    100016: polySurface15
+    100018: polySurface17
+    100020: polySurface2
+    100022: polySurface3
+    100024: polySurface36
+    100026: polySurface37
+    100028: polySurface38
+    100030: polySurface39
+    100032: polySurface40
+    100034: polySurface41
+    100036: polySurface42
+    100038: polySurface43
+    100040: polySurface44
+    100042: polySurface45
+    100044: polySurface46
+    100046: polySurface47
+    100048: polySurface48
+    100050: polySurface49
+    100052: polySurface5
+    100054: polySurface50
+    100056: polySurface51
+    100058: polySurface52
+    100060: polySurface53
+    100062: polySurface7
+    100064: polySurface9
+    100066: pPlane1
+    100068: pTorus5
+    400000: //RootNode
+    400002: group
+    400004: pasted__compass1
+    400006: pasted__pCube1
+    400008: pasted__pCube1 1
+    400010: polySurface1
+    400012: polySurface11
+    400014: polySurface13
+    400016: polySurface15
+    400018: polySurface17
+    400020: polySurface2
+    400022: polySurface3
+    400024: polySurface36
+    400026: polySurface37
+    400028: polySurface38
+    400030: polySurface39
+    400032: polySurface40
+    400034: polySurface41
+    400036: polySurface42
+    400038: polySurface43
+    400040: polySurface44
+    400042: polySurface45
+    400044: polySurface46
+    400046: polySurface47
+    400048: polySurface48
+    400050: polySurface49
+    400052: polySurface5
+    400054: polySurface50
+    400056: polySurface51
+    400058: polySurface52
+    400060: polySurface53
+    400062: polySurface7
+    400064: polySurface9
+    400066: pPlane1
+    400068: pTorus5
+    2300000: pasted__pCube1
+    2300002: pasted__pCube1 1
+    2300004: polySurface1
+    2300006: polySurface11
+    2300008: polySurface13
+    2300010: polySurface15
+    2300012: polySurface17
+    2300014: polySurface2
+    2300016: polySurface3
+    2300018: polySurface37
+    2300020: polySurface39
+    2300022: polySurface41
+    2300024: polySurface43
+    2300026: polySurface45
+    2300028: polySurface47
+    2300030: polySurface49
+    2300032: polySurface5
+    2300034: polySurface51
+    2300036: polySurface52
+    2300038: polySurface53
+    2300040: polySurface7
+    2300042: polySurface9
+    2300044: pPlane1
+    3300000: pasted__pCube1
+    3300002: pasted__pCube1 1
+    3300004: polySurface1
+    3300006: polySurface11
+    3300008: polySurface13
+    3300010: polySurface15
+    3300012: polySurface17
+    3300014: polySurface2
+    3300016: polySurface3
+    3300018: polySurface37
+    3300020: polySurface39
+    3300022: polySurface41
+    3300024: polySurface43
+    3300026: polySurface45
+    3300028: polySurface47
+    3300030: polySurface49
+    3300032: polySurface5
+    3300034: polySurface51
+    3300036: polySurface52
+    3300038: polySurface53
+    3300040: polySurface7
+    3300042: polySurface9
+    3300044: pPlane1
+    4300000: polySurface3
+    4300002: polySurface17
+    4300004: polySurface15
+    4300006: polySurface13
+    4300008: polySurface7
+    4300010: polySurface11
+    4300012: polySurface9
+    4300014: pasted__pCube1
+    4300016: polySurface5
+    4300018: polySurface1
+    4300020: pasted__pCube1
+    4300022: polySurface2
+    4300024: pPlane1
+    4300026: polySurface52
+    4300028: polySurface53
+    4300030: polySurface51
+    4300032: polySurface49
+    4300034: polySurface47
+    4300036: polySurface45
+    4300038: polySurface43
+    4300040: polySurface41
+    4300042: polySurface39
+    4300044: polySurface37
+    7400000: first
+    7400002: Second
+    7400004: fourth
+    7400006: third
+    7400008: five
+    7400010: six
+    7400012: seven
+    7400014: eight
+    7400016: nine
+    7400018: full_circle
+    7400020: first
+    7400022: first
+    7400024: Second
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: first
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Second
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: third
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fourth
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: five
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: six
+      takeName: Take 001
+      firstFrame: 29
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: seven
+      takeName: Take 001
+      firstFrame: 36
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: eight
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: nine
+      takeName: Take 001
+      firstFrame: 47
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__pCube1
+        weight: 1
+      - path: pasted__compass1
+        weight: 1
+      - path: pasted__compass1/pasted__pCube1 1
+        weight: 1
+      - path: pasted__compass1/polySurface2
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      - path: polySurface11
+        weight: 1
+      - path: polySurface13
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: pTorus5
+        weight: 1
+      - path: pTorus5/polySurface36
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface52
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface50/polySurface53
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface48/polySurface51
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface46/polySurface49
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface44/polySurface47
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface42/polySurface45
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface40/polySurface43
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface38/polySurface41
+        weight: 1
+      - path: pTorus5/polySurface36/polySurface39
+        weight: 1
+      - path: pTorus5/polySurface37
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
